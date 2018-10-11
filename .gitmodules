@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/UCS"]
+	path = Assets/Plugins/UCS
+	url = http://github.com/theoriz/UnityControlSuite
